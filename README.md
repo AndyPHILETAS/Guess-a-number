@@ -1,1 +1,2 @@
 # Guess-a-number
+Guess a Number est un jeu de devinettes simple. Le jeu sélectionne au hasard un nombre entre 1 et 200 et défie le joueur de deviner en mois de 10 tentatives. À chaque tour, le jeu indique au joueur si il a deviné le bon numéro. Si ce n'est pas le cas, le jeu vous indique si votre estimation est trop basse ou trop haute. Le jeu se termine lorsque le joueur a deviné le bon numéro ou a épuisé ses 10 chances. À la fin de la partie, les joueurs ont la possibilité de commencer une nouvelle partie. Le jeu enregistre le meilleur score
